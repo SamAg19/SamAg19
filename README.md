@@ -14,9 +14,24 @@ Blockchain engineer with 5+ years building smart contracts, oracle systems, stak
 
 Worked across smart contracts, oracle infrastructure, decentralized AI compute, and verification protocol design. Key projects:
 
-- **[Razor Network Oracle](https://razor.network)** – Architected the decentralized oracle contracts powering Razor's network. Optimized aggregation from weighted mean to weighted median, built staking + rewards mechanisms, and directed cross-chain oracle communication. (Open Source: [oracle-contracts](https://github.com/razor-network/oracle-contracts) · [bridge-proxy](https://github.com/razor-network/bridge-proxy))
-- **[Metalayer](https://metalayer.xyz)** – Sole smart contract architect for their modular compute and verification protocol. Designed validator registration, staking, attestation lifecycle, and dispute resolution. Co-authored the protocol whitepaper.
-- **[Syntience](https://syntience.com)** – Built distributed GPT-2 training pipelines using PyTorch + GCP, designed modular decision-making with mixture-of-experts models, and prototyped verifiable training validation for decentralized AI compute.
+**[Razor Network Oracle](https://razor.network)** (Open Source: [oracle-contracts](https://github.com/razor-network/oracle-contracts) · [bridge-proxy](https://github.com/razor-network/bridge-proxy))
+- Architected decentralized oracle contracts for data aggregation.
+- Optimized oracle computations by transitioning from weighted mean → weighted median.
+- Built **staking + rewards mechanisms** to ensure validator incentives.
+- Directed **cross-chain oracle communication** to transmit data across EVM chains.
+
+**[Metalayer](https://metalayer.xyz)**
+- Sole smart contract engineer for modular compute and verification protocol.
+- Designed **validator registration, staking, attestation lifecycle, and dispute resolution** in a Proof-of-Stake framework.
+- Developed contracts with Solidity & Foundry; implemented unit, fuzz, and integration tests for reliability.
+- Co-authored the **protocol whitepaper**, defining validator responsibilities, ZKP verification, and interoperability.
+- Collaborated to define and prototype protocol use cases, including **bridge and oracle attestation**, **zero-knowledge proof verification**, and **AI inference result validation**.
+
+**[Syntience](https://syntience.com)**
+- Built **distributed GPT-2 training** pipelines on PyTorch + GCP.
+- Designed modular decision-making frameworks using mixture-of-experts models.
+- Prototyped **verifiable training validation** pipelines for decentralized AI compute.
+- Conducted performance optimization and resource scaling for inference reliability.
 
 ---
 
