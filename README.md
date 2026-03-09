@@ -4,7 +4,7 @@
 
 # Hi, I'm Sameer! 👋
 
-Blockchain engineer with 5+ years building smart contracts, oracle systems, staking protocols, and decentralized AI compute. I love hacking at hackathons, designing protocol-level systems, and pushing the boundaries of what's possible on-chain.
+Blockchain engineer with 5+ years of experience across oracle infrastructure, staking protocols, cross-chain systems, and decentralized AI compute. Architected Razor Network's oracle contracts and cross-chain data transmission, served as the sole smart contract engineer for Metalayer's verification protocol, and built distributed AI training pipelines at Syntience. Multiple hackathon wins with recent projects spanning prediction market AMMs on Uniswap V4, confidential on-chain payroll with FHE, and cross-chain payment routing via ENS.
 
 ---
 
