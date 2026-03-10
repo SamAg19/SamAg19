@@ -123,7 +123,9 @@ Feel free to reach out for collaborations, hackathons, or just to say hi!
 [![Twitter](https://img.shields.io/badge/Twitter-@0xSamAg19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xSamAg19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-agarwal-75392818b/)
 [![Email](https://img.shields.io/badge/Email-sameeragarwal1910-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameeragarwal1910@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@sameerag19-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sameerag19)
 
 ---
 
 Thanks for stopping by! 🚀
+
