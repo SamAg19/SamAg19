@@ -10,7 +10,7 @@ Blockchain engineer with 5+ years of experience across oracle infrastructure, st
 
 ## 🚀 Professional Experience (5+ years)
 
-**[Razor Network](https://razor.network)** · Blockchain Developer · July 2020 – Feb 2026
+**[Razor Network](https://razor.network)** · Blockchain Developer · July 2020 – Present
 
 Worked across smart contracts, oracle infrastructure, decentralized AI compute, and verification protocol design. Key projects:
 
