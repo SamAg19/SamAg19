@@ -37,7 +37,8 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 
 ## 🏗️ Personal Projects
 
-- **[BlocPaie](https://github.com/BlocPaie)** – Confidential payroll for paying contractors on-chain. Gas-sponsored invoice-to-payment flow with passkey auth. Built with ZAMA, Porto SDK (EIP-7702), Ithaca Relay, and USDC. (Feb 2026 - March 2026)
+- **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. (March 2026)
+- **[BlocPaie](https://github.com/BlocPaie)** – Confidential on-chain payroll. FHE-encrypted salaries via ZAMA, Porto smart accounts with WebAuthn passkeys, gasless transactions via Ithaca Relay. 88 tests. (Feb 2026 – March 2026)
 - **[Distro](https://github.com/SamAg19/Distro)** – Prediction market AMM as a Uniswap V4 hook. Traders shift Gaussian distributions to express beliefs on continuous outcomes. LPs earn fees with zero prediction risk. (Feb 2026 - Present)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
 - **[The-Agora](https://github.com/SamAg19/The-Agora)** – Decentralized philosophical arena where 8 AI agents debate religion & ethics on-chain on Monad, staking MON tokens on their convictions. (Feb 2026)
