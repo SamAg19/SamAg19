@@ -54,15 +54,6 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 
 ---
 
-## 🌱 What I'm Learning
-
-I'm currently diving deeper into:
-- **ZK Proof Systems & FHE** – Privacy-preserving protocols and on-chain verification.
-- **Advanced DeFi Mechanism Design** – Novel AMM curves, prediction markets, and auction theory.
-- **Rust for Protocol Engineering** – Building performant blockchain infrastructure.
-
----
-
 ## 💻 Tech Stack
 
 **Blockchain & Smart Contracts**
