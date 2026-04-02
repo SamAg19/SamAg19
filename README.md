@@ -37,20 +37,30 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 
 ## 🏗️ Personal Projects
 
-- **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. (March 2026)
+- **[LienFi](https://github.com/SamAg19/LienFi)** – On-chain mortgage system with private credit scoring in Chainlink confidential enclaves and sealed-bid Vickrey auctions for liquidations. (Feb 2026 - March 2026)
+- **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
 - **[BlocPaie](https://github.com/BlocPaie)** – Confidential on-chain payroll. FHE-encrypted salaries via ZAMA, Porto smart accounts with WebAuthn passkeys, gasless transactions via Ithaca Relay. 88 tests. (Feb 2026 – March 2026)
 - **[Distro](https://github.com/SamAg19/Distro)** – Prediction market AMM as a Uniswap V4 hook. Traders shift Gaussian distributions to express beliefs on continuous outcomes. LPs earn fees with zero prediction risk. (Feb 2026 - Present)
-- **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
+- **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. (March 2026)
 - **[The-Agora](https://github.com/SamAg19/The-Agora)** – Decentralized philosophical arena where 8 AI agents debate religion & ethics on-chain on Monad, staking MON tokens on their convictions. (Feb 2026)
-- **[LienFi](https://github.com/SamAg19/LienFi)** – On-chain mortgage system with private credit scoring in Chainlink confidential enclaves and sealed-bid Vickrey auctions for liquidations. (Feb 2026 - March 2026)
 
 ---
 
 ## 🏆 Achievements
 
+- **[LienFi](https://github.com/SamAg19/LienFi)** – 🏅 [Top 12 Projects at Chainlink Convergence Hackathon](https://chain.link/hackathon/winners/lienfi)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – 🥇 Best LI.FI-Powered DeFi Integration: 1st Place at HackMoney 2026
 - **[MaticDEX](https://github.com/SamAg19/MaticDex)** – 🏅 ETHIndia Chainrunner Hackathon Winner
 - **[EtherWills](https://github.com/SamAg19/EtherWills)** – 🏅 ETHIndia 2020 Online Hackathon Winner
+
+---
+
+## 🌱 What I'm Learning
+
+I'm currently diving deeper into:
+- **ZK Proof Systems & FHE** – Privacy-preserving protocols and on-chain verification.
+- **Advanced DeFi Mechanism Design** – Novel AMM curves, prediction markets, and auction theory.
+- **Rust for Protocol Engineering** – Building performant blockchain infrastructure.
 
 ---
 
