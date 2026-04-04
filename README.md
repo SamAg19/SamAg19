@@ -37,17 +37,18 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 
 ## 🏗️ Personal Projects
 
+- **[CuratedLP](https://github.com/SakshiShah29/CuratedLP)** – AI agent-managed liquidity vaults on Uniswap V4. Curator rebalances concentrated liquidity via Venice AI private inference inside an EigenCompute TEE, scoped permissions via MetaMask Delegation Framework, execution logs stored on Filecoin with PDP proofs, and on-chain reputation via ERC-8004. Orchestrated by OpenClaw on Base. (March 2026)
 - **[LienFi](https://github.com/SamAg19/LienFi)** – On-chain mortgage system with private credit scoring in Chainlink confidential enclaves and sealed-bid Vickrey auctions for liquidations. (Feb 2026 - March 2026)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
 - **[BlocPaie](https://github.com/BlocPaie)** – Confidential on-chain payroll. FHE-encrypted salaries via ZAMA, Porto smart accounts with WebAuthn passkeys, gasless transactions via Ithaca Relay. 88 tests. (Feb 2026 – March 2026)
 - **[Distro](https://github.com/SamAg19/Distro)** – Prediction market AMM as a Uniswap V4 hook. Traders shift Gaussian distributions to express beliefs on continuous outcomes. LPs earn fees with zero prediction risk. (Feb 2026 - Present)
 - **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. (March 2026)
-- **[The-Agora](https://github.com/SamAg19/The-Agora)** – Decentralized philosophical arena where 8 AI agents debate religion & ethics on-chain on Monad, staking MON tokens on their convictions. (Feb 2026)
 
 ---
 
 ## 🏆 Achievements
 
+- **[CuratedLP](https://github.com/SakshiShah29/CuratedLP)** – 🥇 [1st Place — Filecoin Partner Track at Synthesis Hackathon 2026](https://x.com/FILBuilders/status/2039946056499360215)
 - **[LienFi](https://github.com/SamAg19/LienFi)** – 🏅 [Top 12 Projects at Chainlink Convergence Hackathon](https://chain.link/hackathon/winners/lienfi)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – 🥇 Best LI.FI-Powered DeFi Integration: 1st Place at HackMoney 2026
 - **[MaticDEX](https://github.com/SamAg19/MaticDex)** – 🏅 ETHIndia Chainrunner Hackathon Winner
