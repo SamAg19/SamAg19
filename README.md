@@ -6,7 +6,6 @@
 
 Blockchain engineer with 5+ years of experience across oracle infrastructure, staking protocols, cross-chain systems, and decentralized AI compute. Architected Razor Network's oracle contracts and cross-chain data transmission, served as the sole smart contract engineer for Metalayer's verification protocol, and built distributed AI training pipelines at Syntience. Multiple hackathon wins with recent projects spanning prediction market AMMs on Uniswap V4, confidential on-chain payroll with FHE, and cross-chain payment routing via ENS.
 
----
 
 ## 🚀 Professional Experience (5+ years)
 
@@ -33,7 +32,6 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 - Prototyped **verifiable training validation** pipelines for decentralized AI compute.
 - Conducted performance optimization and resource scaling for inference reliability.
 
----
 
 ## 🏗️ Personal Projects
 
@@ -42,19 +40,18 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
 - **[BlocPaie](https://github.com/BlocPaie)** – Confidential on-chain payroll. FHE-encrypted salaries via ZAMA, Porto smart accounts with WebAuthn passkeys, gasless transactions via Ithaca Relay. 88 tests. (Feb 2026 – March 2026)
 - **[Distro](https://github.com/SamAg19/Distro)** – Prediction market AMM as a Uniswap V4 hook. Traders shift Gaussian distributions to express beliefs on continuous outcomes. LPs earn fees with zero prediction risk. (Feb 2026 - Present)
-- **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. (March 2026)
+- **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. Graduating project for Uniswap Hook Incubator Cohort 8. (March 2026)
 
----
 
 ## 🏆 Achievements
 
+- **[Uniswap Hook Incubator](https://ipfs.io/ipfs/QmXyacpT8RfZhh81w271QXzo4i1FPHisiggJZ62Ymmryqq)** – 🎓 Cohort 8 Graduate (Graduating project: StableGate)
 - **[CuratedLP](https://github.com/SakshiShah29/CuratedLP)** – 🥇 [1st Place — Filecoin Partner Track at Synthesis Hackathon 2026](https://x.com/FILBuilders/status/2039946056499360215)
 - **[LienFi](https://github.com/SamAg19/LienFi)** – 🏅 [Top 12 Projects at Chainlink Convergence Hackathon](https://chain.link/hackathon/winners/lienfi)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – 🥇 Best LI.FI-Powered DeFi Integration: 1st Place at HackMoney 2026
 - **[MaticDEX](https://github.com/SamAg19/MaticDex)** – 🏅 ETHIndia Chainrunner Hackathon Winner
 - **[EtherWills](https://github.com/SamAg19/EtherWills)** – 🏅 ETHIndia 2020 Online Hackathon Winner
 
----
 
 ## 🌱 What I'm Learning
 
@@ -63,7 +60,6 @@ I'm currently diving deeper into:
 - **Advanced DeFi Mechanism Design** – Novel AMM curves, prediction markets, and auction theory.
 - **Rust for Protocol Engineering** – Building performant blockchain infrastructure.
 
----
 
 ## 💻 Tech Stack
 
@@ -103,7 +99,6 @@ I'm currently diving deeper into:
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -116,7 +111,6 @@ I'm currently diving deeper into:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamAg19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
 ## 📫 Let's Connect!
 
@@ -127,8 +121,6 @@ Feel free to reach out for collaborations, hackathons, or just to say hi!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-agarwal-75392818b/)
 [![Email](https://img.shields.io/badge/Email-sameeragarwal1910-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameeragarwal1910@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@sameerag19-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sameerag19)
-
----
 
 Thanks for stopping by! 🚀
 
