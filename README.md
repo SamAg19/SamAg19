@@ -36,10 +36,10 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 ## 🏗️ Personal Projects
 
 - **[CuratedLP](https://github.com/SakshiShah29/CuratedLP)** – AI agent-managed liquidity vaults on Uniswap V4. Curator rebalances concentrated liquidity via Venice AI private inference inside an EigenCompute TEE, scoped permissions via MetaMask Delegation Framework, execution logs stored on Filecoin with PDP proofs, and on-chain reputation via ERC-8004. Orchestrated by OpenClaw on Base. (March 2026)
+- **[Reckon](https://github.com/SakshiShah29/Reckon)** – Cryptoeconomic validation layer for DeFi solvers on UniswapX. Solvers register as ENS-resolvable identities, post reputation-scaled bonds, and face automatic slashing when 0G iNFT challenger agents prove objective EBBO violations. Agents coordinate over Gensyn AXL, execute via KeeperHub, and archive fill/challenge logs to 0G Storage. (May 2026)
 - **[LienFi](https://github.com/SamAg19/LienFi)** – On-chain mortgage system with private credit scoring in Chainlink confidential enclaves and sealed-bid Vickrey auctions for liquidations. (Feb 2026 - March 2026)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
 - **[BlocPaie](https://github.com/BlocPaie)** – Confidential on-chain payroll. FHE-encrypted salaries via ZAMA, Porto smart accounts with WebAuthn passkeys, gasless transactions via Ithaca Relay. 88 tests. (Feb 2026 – March 2026)
-- **[Distro](https://github.com/SamAg19/Distro)** – Prediction market AMM as a Uniswap V4 hook. Traders shift Gaussian distributions to express beliefs on continuous outcomes. LPs earn fees with zero prediction risk. (Feb 2026 - Present)
 - **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. Graduating project for Uniswap Hook Incubator Cohort 8. (March 2026)
 
 
@@ -123,4 +123,3 @@ Feel free to reach out for collaborations, hackathons, or just to say hi!
 [![Telegram](https://img.shields.io/badge/Telegram-@sameerag19-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sameerag19)
 
 Thanks for stopping by! 🚀
-
