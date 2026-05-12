@@ -40,6 +40,7 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 - **[LienFi](https://github.com/SamAg19/LienFi)** – On-chain mortgage system with private credit scoring in Chainlink confidential enclaves and sealed-bid Vickrey auctions for liquidations. (Feb 2026 - March 2026)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
 - **[BlocPaie](https://github.com/BlocPaie)** – Confidential on-chain payroll. FHE-encrypted salaries via ZAMA, Porto smart accounts with WebAuthn passkeys, gasless transactions via Ithaca Relay. 88 tests. (Feb 2026 – March 2026)
+- **[Mini ETH Node](https://github.com/SamAg19/mini-eth-node)** – Compact Ethereum-like execution node built from first principles in Rust. Accepts signed value-transfer blocks over TCP, validates parent/head relationships, executes transactions against in-memory state, updates chain head, and exposes account/head queries. (May 2026 - Present)
 - **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. Graduating project for Uniswap Hook Incubator Cohort 8. (March 2026)
 
 
