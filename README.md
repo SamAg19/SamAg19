@@ -105,8 +105,6 @@ I'm currently diving deeper into:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamAg19&theme=tokyonight" alt="Sameer's GitHub Stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamAg19&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SamAg19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
