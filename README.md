@@ -1,23 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Sameer+%F0%9F%91%8B;Blockchain+Engineer+%7C+Smart+Contracts+%7C+DeFi;Building+Decentralized+Systems+Since+2020&font=Fira+Code&color=36BCF7&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Sameer+%F0%9F%91%8B;Blockchain+Engineer+%7C+Protocol+Development+%7C+Smart+Contracts;Building+Decentralized+Systems+Since+2020&font=Fira+Code&color=36BCF7&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </p>
 
 # Hi, I'm Sameer! 👋
 
-Blockchain engineer with 5+ years of experience across oracle infrastructure, staking protocols, cross-chain systems, and decentralized AI compute. Architected Razor Network's oracle contracts and cross-chain data transmission, served as the sole smart contract engineer for Metalayer's verification protocol, and built distributed AI training pipelines at Syntience. Multiple hackathon wins with recent projects spanning prediction market AMMs on Uniswap V4, confidential on-chain payroll with FHE, and cross-chain payment routing via ENS.
+Blockchain engineer with 5+ years of experience across Ethereum infrastructure, protocol design, smart contracts, distributed systems, and verifiable compute. I have worked on oracle aggregation, staking and validator incentives, cross-chain attestation, decentralized AI training, and Rust-based execution-layer learning projects. My work sits between Solidity protocol implementation and lower-level protocol engineering: building production EVM systems while moving deeper into client architecture, state execution, testing, and protocol correctness.
 
 
 ## 🚀 Professional Experience (5+ years)
 
 **[Razor Network](https://razor.network)** · Blockchain Developer · July 2020 – Present
 
-Worked across smart contracts, oracle infrastructure, decentralized AI compute, and verification protocol design. Key projects:
+Worked across smart contracts, oracle infrastructure, decentralized AI compute, distributed systems, and verification protocol design. Key projects:
 
 **[Razor Network Oracle](https://razor.network)** (Open Source: [oracle-contracts](https://github.com/razor-network/oracle-contracts) · [bridge-proxy](https://github.com/razor-network/bridge-proxy))
 - Architected decentralized oracle contracts for data aggregation.
 - Optimized oracle computations by transitioning from weighted mean → weighted median.
 - Built **staking + rewards mechanisms** to ensure validator incentives.
 - Directed **cross-chain oracle communication** to transmit data across EVM chains.
+- Worked on protocol-level questions around aggregation security, validator behavior, economic fault assumptions, and cross-chain data validity.
 
 **[Metalayer](https://metalayer.xyz)**
 - Sole smart contract engineer for modular compute and verification protocol.
@@ -25,12 +26,14 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 - Developed contracts with Solidity & Foundry; implemented unit, fuzz, and integration tests for reliability.
 - Co-authored the **protocol whitepaper**, defining validator responsibilities, ZKP verification, and interoperability.
 - Collaborated to define and prototype protocol use cases, including **bridge and oracle attestation**, **zero-knowledge proof verification**, and **AI inference result validation**.
+- Focused on validator lifecycle design, finality assumptions, slashing conditions, and how off-chain computation can be verified by an on-chain protocol.
 
 **[Syntience](https://syntience.com)**
 - Built **distributed GPT-2 training** pipelines on PyTorch + GCP.
 - Designed modular decision-making frameworks using mixture-of-experts models.
 - Prototyped **verifiable training validation** pipelines for decentralized AI compute.
 - Conducted performance optimization and resource scaling for inference reliability.
+- Worked on distributed execution, checkpointing, reproducibility, and verification of compute performed by remote nodes.
 
 
 ## 🏗️ Personal Projects
@@ -57,14 +60,25 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 ## 🌱 What I'm Learning
 
 I'm currently diving deeper into:
-- **ZK Proof Systems & FHE** – Privacy-preserving protocols and on-chain verification.
-- **Advanced DeFi Mechanism Design** – Novel AMM curves, prediction markets, and auction theory.
-- **Rust for Protocol Engineering** – Building performant blockchain infrastructure.
+- **Ethereum Execution Layer** – State transitions, RLP, ECDSA recovery, trie commitments, block validation, and client architecture.
+- **Protocol Testing & Client Correctness** – Fixtures, differential behavior, devnet tooling, and reproducible failure analysis.
+- **ZK Proof Systems & FHE** – Privacy-preserving protocols, verifiable compute, and on-chain/off-chain verification boundaries.
+- **Advanced DeFi Mechanism Design** – AMM invariants, auctions, solver incentives, and market-structure design.
+- **Rust for Protocol Engineering** – Building performant blockchain infrastructure and lower-level protocol components.
 
 
 ## 💻 Tech Stack
 
-**Blockchain & Smart Contracts**
+**Protocol Engineering**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![RLP](https://img.shields.io/badge/RLP-111111?style=for-the-badge&logo=ethereum&logoColor=white)
+![TCP](https://img.shields.io/badge/TCP_Networking-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Smart Contracts & EVM**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -98,7 +112,6 @@ I'm currently diving deeper into:
 **Infrastructure**
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## 📊 GitHub Stats
