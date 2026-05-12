@@ -104,12 +104,12 @@ I'm currently diving deeper into:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamAg19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sameer's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAg19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamAg19&theme=tokyonight" alt="Sameer's GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamAg19&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamAg19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SamAg19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
