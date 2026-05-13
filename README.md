@@ -42,7 +42,6 @@ Worked across smart contracts, oracle infrastructure, decentralized AI compute, 
 - **[Reckon](https://github.com/SakshiShah29/Reckon)** – Cryptoeconomic validation layer for DeFi solvers on UniswapX. Solvers register as ENS-resolvable identities, post reputation-scaled bonds, and face automatic slashing when 0G iNFT challenger agents prove objective EBBO violations. Agents coordinate over Gensyn AXL, execute via KeeperHub, and archive fill/challenge logs to 0G Storage. (May 2026)
 - **[LienFi](https://github.com/SamAg19/LienFi)** – On-chain mortgage system with private credit scoring in Chainlink confidential enclaves and sealed-bid Vickrey auctions for liquidations. (Feb 2026 - March 2026)
 - **[ENSRouter](https://github.com/SamAg19/ENSRouter)** – Cross-chain payment routing via ENS text records. Configure your preferred chains and tokens in ENS, and payments auto-route to where you want them. (Feb 2026)
-- **[BlocPaie](https://github.com/BlocPaie)** – Confidential on-chain payroll. FHE-encrypted salaries via ZAMA, Porto smart accounts with WebAuthn passkeys, gasless transactions via Ithaca Relay. 88 tests. (Feb 2026 – March 2026)
 - **[Mini ETH Node](https://github.com/SamAg19/mini-eth-node)** – Compact Ethereum-like execution node built from first principles in Rust. Accepts signed value-transfer blocks over TCP, validates parent/head relationships, executes transactions against in-memory state, updates chain head, and exposes account/head queries. (May 2026 - Present)
 - **[StableGate](https://github.com/SamAg19/StableGate)** – KYC-gated institutional stablecoin swaps on Uniswap V4. Credential NFTs on Base automate permissioning cross-chain via Reactive Network to a CSMM hook on Unichain with tiered fees, daily caps, and LP whitelist. 151 tests. Graduating project for Uniswap Hook Incubator Cohort 8. (March 2026)
 
@@ -73,8 +72,6 @@ I'm currently diving deeper into:
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![RLP](https://img.shields.io/badge/RLP-111111?style=for-the-badge&logo=ethereum&logoColor=white)
-![TCP](https://img.shields.io/badge/TCP_Networking-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
