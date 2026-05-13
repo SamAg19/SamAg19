@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Sameer+%F0%9F%91%8B;Blockchain+Engineer+%7C+Protocol+Development+%7C+Smart+Contracts;Building+Decentralized+Systems+Since+2020&font=Fira+Code&color=36BCF7&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I+am+Sameer;Building+decentralized+systems+since+2020&font=Fira+Code&color=36BCF7&center=true&width=760&height=50&duration=4000&pause=1000" alt="Hey there, I am Sameer. Building decentralized systems since 2020" />
 </p>
 
 # Hi, I'm Sameer! 👋
