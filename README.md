@@ -4,12 +4,12 @@
 
 # Hi, I'm Sameer! 👋
 
-Blockchain engineer with 5+ years of experience across Ethereum infrastructure, protocol design, smart contracts, distributed systems, and verifiable compute. I have worked on oracle aggregation, staking and validator incentives, cross-chain attestation, decentralized AI training, and Rust-based execution-layer learning projects. My work sits between Solidity protocol implementation and lower-level protocol engineering: building production EVM systems while moving deeper into client architecture, state execution, testing, and protocol correctness.
+Smart Contract engineer with 5+ years of experience across Ethereum infrastructure, protocol design, smart contracts, distributed systems, and verifiable compute. I have worked on oracle aggregation, staking and validator incentives, cross-chain attestation, decentralized AI training, and Rust-based execution-layer learning projects. My work sits between Solidity protocol implementation and lower-level protocol engineering: building production EVM systems while moving deeper into client architecture, state execution, testing, and protocol correctness.
 
 
 ## 🚀 Professional Experience (5+ years)
 
-**[Razor Network](https://razor.network)** · Blockchain Developer · July 2020 – May 2026
+**[Razor Network](https://razor.network)** · Smart Contract Developer · July 2020 – May 2026
 
 Worked across smart contracts, oracle infrastructure, decentralized AI compute, distributed systems, and verification protocol design. Key projects:
 
